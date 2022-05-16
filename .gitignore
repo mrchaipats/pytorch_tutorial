@@ -1,0 +1,12 @@
+*.gz
+*.zip
+*.jpg
+*.pth
+*.pt
+*.ptl
+
+__pycache__
+data
+runs
+PennFudanPed
+vision
